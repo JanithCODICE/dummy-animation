@@ -178,7 +178,7 @@ export const SpectrumIcon: React.FC<SpectrumIconProps> = ({
   const centerY = 78.4582;
 
   return (
-    <CdIcon size={size} viewBox="0 0 176 171">
+    <CdIcon size={size} viewBox="-20 -20 216 211">
       <Defs>
         <Filter
           id="filter0_f_2212_79743"
